@@ -1,0 +1,17 @@
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Service.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Service.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Escola.Domain.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Infra.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Escola.Domain.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\bin\Debug\net5.0\Infra.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Service\obj\Debug\net5.0\Service.pdb

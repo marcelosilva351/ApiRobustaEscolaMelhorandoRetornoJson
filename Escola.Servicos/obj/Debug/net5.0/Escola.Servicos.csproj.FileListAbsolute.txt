@@ -1,0 +1,17 @@
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.AssemblyInfo.cs
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Servicos.deps.json
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Servicos.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\ref\Escola.Servicos.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Servicos.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Domain.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Infra.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Domain.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\bin\Debug\net5.0\Escola.Infra.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.csproj.CopyComplete
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\ref\Escola.Servicos.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Servicos\obj\Debug\net5.0\Escola.Servicos.pdb

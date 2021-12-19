@@ -1,0 +1,12 @@
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\bin\Debug\net5.0\Escola.Domain.deps.json
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\bin\Debug\net5.0\Escola.Domain.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\bin\Debug\net5.0\ref\Escola.Domain.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\bin\Debug\net5.0\Escola.Domain.pdb
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.AssemblyInfo.cs
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\ref\Escola.Domain.dll
+C:\Users\marce\Desktop\EstudosOFC\Revisões\ApiRobustaDddEscola\Escola.Domain\obj\Debug\net5.0\Escola.Domain.pdb
